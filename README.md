@@ -1,3 +1,3 @@
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+| Software Development | Computer Graphics  | Front-end Web  | back-end Web | Design | Machine Learning |
+| Java | Python | :-: | HTML | CSS |
+                      | JavaScript |
