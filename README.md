@@ -1,3 +1,6 @@
-| Software Development | Computer Graphics  | Front-end Web  | back-end Web | Design | Machine Learning |
-| Java | Python | :-: | HTML | CSS |
-                      | JavaScript |
+| Software Development | Front-end Web | Back-end Web |
+|:--------------------:|:-------------:|:------------:|
+|        Python        |      HTML     |  JavaScript  |
+|         Java         |      CSS      |      PHP     |
+|                      |   JavaScript  |      SQL     |
+|                      |      Git      |      Git     |
