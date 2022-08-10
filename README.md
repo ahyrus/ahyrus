@@ -1,7 +1,5 @@
 Skills
-
----
-
+-
 | Software Development | Front-end Web | Back-end Web |
 |:--------------------:|:-------------:|:------------:|
 |        Python        |      HTML     |  JavaScript  |
