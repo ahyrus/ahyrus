@@ -6,9 +6,9 @@ Ce compte me sert à garder la trace de ce que j'apprends et à me familiariser 
 
 📚 Langages informatiques
 -
-| Software Development | Front-end Web | Back-end Web |
-|:--------------------:|:-------------:|:------------:|
-|        Python        |      HTML     |  JavaScript  |
-|         Java         |      CSS      |      PHP     |
-|                      |   JavaScript  |      SQL     |
-|                      |      Git      |      Git     |
+| Software Development | Front-end Web | Back-end Web | Embendded |
+|:--------------------:|:-------------:|:------------:|:---------:|
+|        Python        |      HTML     |  JavaScript  |    ISE    |
+|         Java         |      CSS      |      PHP     |           |
+|                      |   JavaScript  |      SQL     |           |
+|                      |      Git      |      Git     |           |
