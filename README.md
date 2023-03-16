@@ -10,5 +10,5 @@ Ce compte me sert à garder la trace de ce que j'apprends et à me familiariser 
 |:--------------------:|:-------------:|:------------:|:---------:|
 |        Python        |      HTML     |  JavaScript  |    ISE    |
 |         Java         |      CSS      |      PHP     |           |
-|                      |   JavaScript  |      SQL     |           |
+|          C           |   JavaScript  |      SQL     |           |
 |                      |      Git      |      Git     |           |
