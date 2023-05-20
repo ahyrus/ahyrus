@@ -43,8 +43,6 @@ Ce compte me sert à garder la trace de ce que j'apprends et à me familiariser 
 			<td align="center"></td>
 			<td align="center"></td>
 		</tr>
-
-
 	</tbody>
 </table>
 
